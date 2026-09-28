@@ -9,5 +9,6 @@
   "editor.snippetSuggestions": "none",
   "editor.wordBasedSuggestions": "off",
   "editor.acceptSuggestionOnEnter": "off",
-  "editor.parameterHints.enabled": false
+  "editor.parameterHints.enabled": false,
+  "files.autoSave": "onFocusChange"
 }
